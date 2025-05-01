@@ -1,7 +1,4 @@
-# conda create -n myenv python==3.11 -y 
-
-# conda activate myenv
-
+Create Virtual Environment
 # pip install -r requirements.txt
 
 
