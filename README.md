@@ -1,5 +1,6 @@
-Create Virtual Environment
-# pip install -r requirements.txt
+# Create Virtual Environment
+
+pip install -r requirements.txt
 
 
 pip install streamlit langchain langchain-openai langchain-community faiss-cpu python-dotenv pandas
